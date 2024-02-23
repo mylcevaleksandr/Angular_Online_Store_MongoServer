@@ -1,6 +1,7 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
+dist/
 /dist
 /tmp
 /out-tsc
@@ -29,7 +30,8 @@ yarn-error.log
 .history/*
 
 # Miscellaneous
-.angular/
+.angular
+Online_Store/package-lock.json
 /package-lock.json
 .sass-cache/
 /connect.lock
