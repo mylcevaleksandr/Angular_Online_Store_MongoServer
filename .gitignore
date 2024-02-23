@@ -30,7 +30,7 @@ yarn-error.log
 
 # Miscellaneous
 .angular
-/frontend/package-lock.json
+frontend/package-lock.json
 package-lock.json
 .sass-cache/
 /connect.lock
